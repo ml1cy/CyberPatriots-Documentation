@@ -1,1 +1,14 @@
+HOW TO LINUX
+1. do forensic questions
+2. script every config file
+3. script every user change
+4. script every basic hardening
+5. test your script
+6. look for other issues that feel wrong
 
+HOW TO BUILD A SCRIPT
+1. look at others
+2. create based off of their code (MAKE SURE YOU DON'T COPY)
+3. test script
+
+Be careful editing you primary users password, as IT BREAKS YOUR VM
