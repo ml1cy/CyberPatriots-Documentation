@@ -1,3 +1,4 @@
+(James Notes)
 HOW TO LINUX
 1. do forensic questions
 2. script every config file
@@ -12,3 +13,7 @@ HOW TO BUILD A SCRIPT
 3. test script
 
 Be careful editing you primary users password, as IT BREAKS YOUR VM
+
+(Ijaz Notes)
+What ever James says to do, do the complete opposite. Don't use any of his scripts, they tend to corrupt your PAM file and in some cases your ENTIRE FUCKING IMAGE.
+If you KNOW that you can do linux, RUSH to sign up for it because then an incompotent dumbass (*cough* JAMES *cough*) might get to it before you.
