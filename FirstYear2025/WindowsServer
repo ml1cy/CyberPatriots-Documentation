@@ -1,1 +1,51 @@
+CyberPatriot Best Practices & Scripts Documentation Template
+1. Title Page
+Document Title: CyberPatriot Win Server
+Team Name: 18-06
+Date: [12/15/2025]
+Version: [v1.0]
+Authors: [Triple-c11]
 
+2. Introduction
+Purpose: To help remember
+Audience: Me
+Scope: Remember stuff
+
+3. Environment Setup
+Tools Required:
+Practice VM, AI
+Initial Configuration:
+extract image and put it into the VM software
+Network configuration basics.
+Security Baseline:
+Watch some vids or use AI for any questions
+
+4. Best Practices
+Organize by category:
+Answer forenzics questions
+Windows Hardening
+Disable unnecessary services.
+Apply Group Policy settings.
+Enable firewall and configure rules.
+Update packages.
+Remove unused users and groups.
+Secure router settings.
+Change default passwords.
+Enable WPA2 encryption.
+Time Management
+Prioritize scoring items first.
+
+5. Troubleshooting
+Common issues and fixes:
+Issue: Firewall blocks scoring server.
+Fix: Add exception for scoring IP.
+Issue: Script fails due to permissions.
+Fix: Run as administrator.
+
+6. Lessons Learned
+AI worked very well for the scripts and any questions i had
+Learn more about hardening
+Test scripts more
+7. References
+AI
+Cyberpatriot resources
