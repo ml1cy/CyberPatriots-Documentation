@@ -1,2 +1,61 @@
 Tips and Tricks:
 Windows 11 is only available for rounds 1 and 2, so make sure you learn Windows Server as well, or something else, to be helpful later on in the competition
+Here’s a detailed documentation template your students can use. It’s structured for clarity, consistency, and professionalism:
+CyberPatriot Best Practices & Scripts Documentation Template
+---------------------------------------------------------------------------------------------------------------------------------------------
+1.. Introduction
+Purpose: Explain why this documentation exists (e.g., to share knowledge, improve future performance).
+Audience: Who should use this document (future teams, instructors, etc.).
+Scope: What systems and tasks are covered (Windows, Linux, Networking, etc.).
+---------------------------------------------------------------------------------------------------------------------------------------------
+2. Environment Setup
+Tools Required:
+[List tools: e.g., PowerShell, Bash, CyberPatriot VM images]
+Initial Configuration:
+Steps for setting up Windows/Linux VMs.
+Network configuration basics.
+Security Baseline:
+Default hardening steps before competition starts.
+---------------------------------------------------------------------------------------------------------------------------------------------
+3. Best Practices
+Organize by category:
+Windows Hardening
+Disable unnecessary services.
+Apply Group Policy settings.
+Enable firewall and configure rules.
+Linux Hardening
+Update packages.
+Configure iptables or ufw.
+Remove unused users and groups.
+Networking
+Secure router settings.
+Change default passwords.
+Enable WPA2 encryption.
+Time Management
+Divide tasks by OS.
+Prioritize scoring items first.
+---------------------------------------------------------------------------------------------------------------------------------------------
+4. Scripts & Automation
+For each script, include:
+Script Name: [e.g., disable_services.ps1]\ Purpose: [Explain what it does]\ Usage:
+# Example command to run
+powershell.exe -ExecutionPolicy Bypass -File disable_services.ps1
+Code Snippet:
+# Disable unnecessary Windows services
+Set-Service
+Notes:
+Tested on Windows 10 CyberPatriot image.
+Requires admin privileges.
+---------------------------------------------------------------------------------------------------------------------------------------------
+5. Troubleshooting
+Common issues and fixes:
+Issue: Firewall blocks scoring server.
+Fix: Add exception for scoring IP.
+Issue: Script fails due to permissions.
+Fix: Run as administrator.
+---------------------------------------------------------------------------------------------------------------------------------------------
+6. Lessons Learned
+What worked well.
+What could be improved.
+Recommendations for next year.
+
