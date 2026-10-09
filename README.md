@@ -8,7 +8,6 @@ CyberPatriots Documentation repository for the KRESA teams. This repository serv
   - Brayden Buelow
   - Caiden Caswell
   - James Forton
-  - Echo Ridenhour
 ### General Advice & Best Practices
 
 To succeed in the competition and avoid life contemplation, keep the following in mind:
